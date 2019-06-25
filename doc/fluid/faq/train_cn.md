@@ -8,7 +8,7 @@
 
 + 问题描述
 
-sigmoid二分类，`sigmoid_cross_entropy_with_logits`，其中num_classes的意义？
+sigmoid二分类，`sigmoid_cross_entropy_with_logits`，其中num_classes的意义是什么？
 
 + 问题解答
 
